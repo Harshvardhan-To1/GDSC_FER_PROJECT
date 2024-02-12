@@ -12,3 +12,7 @@ In case you want to run it yourself:
 Step 1: Run "pip install -r requirement.txt" on your laptop to install all reqiurement 
 
 Step 2: Run Hope.py then FinalRunner.py, it will take a lot of time if you do not have GPU as I didn't.
+
+Step 3: And if you want to save time you can check my pretrained model from here
+
+https://drive.google.com/drive/folders/1NWqT_BCOIOeB_tabLWA2pT-tCPzGz3cz?usp=drive_link
