@@ -8,5 +8,7 @@ DEMO: If you want you can see the demo of my project here :
 https://drive.google.com/file/d/161mCl9pwLmbbBeIfuBZnKKayEWGTPiv-/view?usp=drive_link
 
 In case you want to run it yourself:
+
 Step 1: Run "pip install -r reuirement.txt" on your laptop to install all reqiurement 
+
 Step 2: Run Hope.py then FinalRunner.py, it will take a lot of time if you do not have GPU as I didn't.
